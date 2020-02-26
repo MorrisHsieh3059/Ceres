@@ -6,7 +6,7 @@
 - Name (ID)
 - pic.
 - gender
-- basic info (院系級)
+- basic info (院/系/級)
 
 # Main function
 1. matching
